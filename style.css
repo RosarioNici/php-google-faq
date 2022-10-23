@@ -1,0 +1,18 @@
+.container {
+    max-width: 1300px;
+    margin: 60px auto;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    margin: 30px 10px;
+}
+
+* {
+    font-family: sans-serif;
+}
